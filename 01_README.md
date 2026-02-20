@@ -56,7 +56,7 @@ Q1 outperforms all other quintiles. The non-monotonic pattern in Q2-Q5 is expect
 
 Cumulative return 2010–2024: Top quintile **+1,200%** vs Bottom quintile **+900%**.
 
-![Signal Analysis](momentum_signals.png)
+
 
 ---
 
@@ -75,7 +75,7 @@ Monthly rebalancing with 0.10% transaction cost per trade (realistic institution
 
 **Key Finding:** The strategy matches benchmark returns with consistently shallower drawdowns — particularly during the 2020 COVID crash where the benchmark fell ~21% vs the strategy's ~18%. The rolling 12-month Sharpe stayed above 1.0 for most of the 14-year period, dipping only during known momentum crash regimes (2011, 2022).
 
-![Backtest Results](backtest_results_momentum.png)
+
 
 ---
 
@@ -119,7 +119,7 @@ More concentrated portfolios capture more alpha — the momentum signal is stron
 
 The strategy remains profitable at 1.0% transaction costs — well above realistic institutional levels. The edge is genuine, not a low-cost artifact.
 
-![Robustness Checks](robustness_checks.png)
+
 
 ---
 
